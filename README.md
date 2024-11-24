@@ -22,7 +22,6 @@ The **Traveling Salesman Problem** is a classic optimization challenge where the
 ```plaintext
 CUDA_TSP_Accelerator/
 ├── README.md           # Project overview and setup instructions
-├── LICENSE             # License information
 ├── src/                # Source code
 │   ├── host_code/      # Host-side logic for CUDA kernel execution
 │   ├── device_code/    # CUDA kernels for GA components
